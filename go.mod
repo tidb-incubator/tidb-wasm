@@ -7,7 +7,7 @@ require (
 	github.com/pingcap/errors v0.11.5-0.20190809092503-95897b64e011
 	github.com/pingcap/log v0.0.0-20191012051959-b742a5d432e9
 	github.com/pingcap/parser v0.0.0-20191223023445-b93660cf3e4e
-	github.com/pingcap/tidb v1.1.0-beta.0.20191226124749-2a0c7770e7b5
+	github.com/pingcap/tidb v1.1.0-beta.0.20191226131113-8e88825f5523
 	github.com/sirupsen/logrus v1.2.0
 	go.uber.org/zap v1.12.0
 )
