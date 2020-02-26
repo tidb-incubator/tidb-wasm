@@ -1,4 +1,4 @@
-module github.com/pingcap/tidb-wasm
+module github.com/pingcap-incubator/tidb-wasm
 
 require (
 	github.com/5kbpers/go-systemd v0.0.0-20191226123609-22b03c51af0f // indirect

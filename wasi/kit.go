@@ -7,7 +7,7 @@ import (
 	// keep this import alone and before other third party import
 	// to avoid go fmt placing it behind the packages that print log
 	// to console.
-	_ "github.com/pingcap/tidb-wasm/wasi/init"
+	_ "github.com/pingcap-incubator/tidb-wasm/wasi/init"
 
 	"github.com/pingcap/errors"
 	"github.com/pingcap/parser/auth"
