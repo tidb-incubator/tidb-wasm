@@ -4,6 +4,6 @@
 git clone git@github.com:pingcap/tidb-wasm.git
 cd tidb-wasm
 make
-cd dist
+cd wasm-dist
 python -m SimpleHTTPServer 8000
 ```
